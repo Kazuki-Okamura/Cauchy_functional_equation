@@ -1,4 +1,4 @@
-# Cauchy_functional_equation
+# Lean4_Cauchy_functional_equation
 
 This project contains a lean 4 formalization of a basic result for the Cauchy functional equation. 
 
