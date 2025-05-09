@@ -1,4 +1,4 @@
-#/build
+/build
 /.lake
 /lake-manifest.json
 .lean/
